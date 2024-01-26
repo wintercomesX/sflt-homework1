@@ -40,8 +40,8 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Не удается найти итерфейс](https://github.com/wintercomesX/sflt-homework1/tree/main/img/NoInterface.PNG)`
-![Схема при которой не проходит пакет](https://github.com/wintercomesX/sflt-homework1/tree/main/img/Schema.PNG)`
+![Не удается найти итерфейс](https://github.com/wintercomesX/sflt-homework1/blob/main/sflt-homework1/img/NoInterface.PNG)`
+![Схема при которой не проходит пакет](https://github.com/wintercomesX/sflt-homework1/blob/main/sflt-homework1/img/Schema.PNG)`
 
 ---
 
@@ -49,7 +49,7 @@
 
 `Приведите ответ в свободной форме........`
 
-1. `Заполните здесь этапы выполнения, если требуется ....`
+1. `Примечание: для теста переключения при выходе из строя порта был отключен Nginx `
 2. `Заполните здесь этапы выполнения, если требуется ....`
 3. `Заполните здесь этапы выполнения, если требуется ....`
 4. `Заполните здесь этапы выполнения, если требуется ....`
@@ -107,13 +107,13 @@ vrrp_instance VI_1 {
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Установка keepalived на обе машины](https://github.com/wintercomesX/sflt-homework1/tree/main/img/png1.PNG)`
-![Установка keepalived на обе машины](https://github.com/wintercomesX/sflt-homework1/tree/main/img/png1.2.PNG)`
-![Установка keepalived на обе машины](https://github.com/wintercomesX/sflt-homework1/tree/main/img/png2.PNG)`
-![Установка keepalived на обе машины](https://github.com/wintercomesX/sflt-homework1/tree/main/img/png2.2.PNG)`
-![Конфиг keepalived](https://github.com/wintercomesX/sflt-homework1/tree/main/img/png3.PNG)`
-![Скрипт Bash](https://github.com/wintercomesX/sflt-homework1/tree/main/img/png4.PNG)`
-![Переключение с бэкапа на мастер](https://github.com/wintercomesX/sflt-homework1/tree/main/img/png5.PNG)`
+![Установка keepalived на обе машины](https://github.com/wintercomesX/sflt-homework1/blob/main/sflt-homework1/img/png1.2.PNG)`
+![Установка keepalived на обе машины](https://github.com/wintercomesX/sflt-homework1/blob/main/sflt-homework1/img/png1.PNG)`
+![Установка keepalived на обе машины](https://github.com/wintercomesX/sflt-homework1/blob/main/sflt-homework1/img/png2.2.PNG)`
+![Установка keepalived на обе машины](https://github.com/wintercomesX/sflt-homework1/blob/main/sflt-homework1/img/png2.PNG)`
+![Конфиг keepalived](https://github.com/wintercomesX/sflt-homework1/blob/main/sflt-homework1/img/png3.PNG)`
+![Скрипт Bash](https://github.com/wintercomesX/sflt-homework1/blob/main/sflt-homework1/img/png4.PNG)`
+![Переключение с бэкапа на мастер](https://github.com/wintercomesX/sflt-homework1/blob/main/sflt-homework1/img/png5.PNG)`
 
 ---
 
